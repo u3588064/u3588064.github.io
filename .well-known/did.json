@@ -9,7 +9,7 @@
     {
       "id": "did:wba:u3588064.github.io:s#key-1",
       "type": "EcdsaSecp256k1VerificationKey2019",
-      "controller": "did:wba:u3588064.github.io:s",
+      "controller": "did:wba:u3588064.github.io",
       "publicKeyJwk": {
         "kty": "EC",
         "crv": "secp256k1",
