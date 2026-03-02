@@ -1,0 +1,15 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/",
+    "ad": "https://agent-network-protocol.com/ad#"
+  },
+  "@type": "CollectionPage",
+  "url": "https://u3588064.github.io/.well-known/agent-descriptions",
+  "items": [
+    {
+      "@type": "ad:AgentDescription",
+      "name": "Systemic Risk Broadcast",
+      "@id": "https://u3588064.github.io/ad.json"
+    }
+  ]
+}
