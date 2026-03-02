@@ -26,7 +26,7 @@
     {
       "id": "#anp-service",
       "type": "AgentNetworkService", 
-      "serviceEndpoint": "https://ciwei.tech"
+      "serviceEndpoint": "https://u3588064.github.io/ad.json"
     }
   ]
 }
