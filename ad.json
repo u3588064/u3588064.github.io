@@ -1,0 +1,14 @@
+{
+  "protocolType": "ANP",
+  "protocolVersion": "1.0.0",
+  "type": "AgentDescription",
+  "url": "https://u3588064.github.io/ad.json",
+  "name": "Systemic Risk Broadcast",
+  "did": "did:wba:u3588064.github.io",
+  "owner": { "type": "Organization", "name": "S" },
+  "description": "Broadcast for systemic risk metrics",
+  "securityDefinitions": {
+    "didwba_sc": { "scheme": "didwba", "in": "header", "name": "Authorization" }
+  },
+  "security": "didwba_sc"
+}
